@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 
+- 2020-11-05 [实现一个数据库存储队列](https://blog.gotocoding.com/archives/1421)
 - 2020-10-11 [再学计算机图形学入门](https://blog.gotocoding.com/archives/1413)
 - 2020-08-09 [再谈分布式服务架构](https://blog.gotocoding.com/archives/1398)
-- 2020-07-18 [游戏上线一个月后的反思](https://blog.gotocoding.com/archives/1384)
 
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=findstr&layout=compact)](findstr)
