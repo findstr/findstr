@@ -10,11 +10,12 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 
+- 2022-03-25 [寻路和Flocking算法的结合](https://blog.gotocoding.com/archives/1717)
+- 2022-03-04 [行为树的一种高效实现](https://blog.gotocoding.com/archives/1690)
+- 2022-01-24 [彻底解决多国语言](https://blog.gotocoding.com/archives/1660)
 - 2021-12-20 [谈谈数据库的选型](https://blog.gotocoding.com/archives/1646)
 - 2021-10-29 [再谈Lua热更新(终)](https://blog.gotocoding.com/archives/1620)
-- 2021-10-21 [初窥Rust](https://blog.gotocoding.com/archives/1601)
-- 2021-08-27 [关于游戏服务器的服务拆分](https://blog.gotocoding.com/archives/1588)
-- 2021-08-19 [ECS的初步实现](https://blog.gotocoding.com/archives/1576)
+
 
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=findstr&layout=compact)](findstr)
