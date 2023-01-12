@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: findstrx@gmail.com
 
 ## Latest blog posts
+- 2023-01-01 [2022（完）](https://blog.gotocoding.com/archives/1793)
 - 2022-12-11 [Go语言之闭包篇](https://blog.gotocoding.com/archives/1786)
 - 2022-11-26 [一例误用unsafe包引起的内存问题](https://blog.gotocoding.com/archives/1781)
 - 2022-10-30 [Go语言之内存篇](https://blog.gotocoding.com/archives/1775)
 - 2022-10-15 [初识Go语言](https://blog.gotocoding.com/archives/1767)
-- 2022-09-21 [重新抽象图形API](https://blog.gotocoding.com/archives/1760)
 
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=findstr&layout=compact)](findstr)
