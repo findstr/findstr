@@ -13,7 +13,7 @@
 - 学习**Rust**，看看它如何帮助处理性能敏感的应用。
 
 ### 🚀 重要项目
-- [网络服务器框架](https://github.com/findstr/silly)：一个基于Lua构建的高性能网络框架，业务逻辑采用Lua开发，主要用于开发游戏服务器，也可用于开发一些其他网络服务器程序。
+- [网络服务器框架](https://github.com/findstr/silly)：一个基于 C/Lua 混合架构的高性能网络服务框架，专注于游戏服务器开发，同时适用于各类网络服务应用。
 
 ### 📅 最近一年的收获
 - 2024-12-18 [如何基于LanguageServerProtocol来编写lint工具](https://blog.gotocoding.com/archives/1947)
