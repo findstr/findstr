@@ -2,22 +2,15 @@
 
 我是一名**游戏开发者**，偶尔也会写点**Web小工具**，对**分布式系统**，**图形渲染**，**深度学习**都很有兴趣。
 
-
 ### 🛠️ 我的技能
 - **编程语言**：C/C++、Go、Lua、JavaScript
-- **客户端**：Unity3D
+- **客户端引擎**：Unity3D
 - **数据库**：Redis、MySQL/MariaDB、LevelDB
-- **工具**：Docker、Git、Kubernetes
+- **一些工具**：Docker、Kubernetes等
 
 ### 🌱 我当前在学习的内容
 - 探索**机器学习**和**深度学习**，以提升我的游戏AI。
 - 学习**Rust**，看看它如何帮助处理性能敏感的应用。
-
-- 🔭 I’m currently working on ShangHai
-- 🌱 I’m currently learning Distributed System and Rendering
-- 🤔 I’m looking for help with Rendering
-- 💬 Ask me anything [here](https://github.com/findstr/findstr/issues)
-- 📫 How to reach me: findstrx@gmail.com
 
 ### 🚀 重要项目
 - [网络服务器框架](https://github.com/findstr/silly)：一个基于Lua构建的高性能网络框架，业务逻辑采用Lua开发，主要用于开发游戏服务器，也可用于开发一些其他网络服务器程序。
