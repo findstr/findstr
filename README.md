@@ -16,6 +16,7 @@
 - [网络服务器框架](https://github.com/findstr/silly)：一个基于 C/Lua 混合架构的高性能网络服务框架，专注于游戏服务器开发，同时适用于各类网络服务应用。
 
 ### 📅 最近一年的收获
+- 2025-01-10 [一次艰难的线上游戏服务器内存排查经历](https://blog.gotocoding.com/archives/1960)
 - 2024-12-18 [如何基于LanguageServerProtocol来编写lint工具](https://blog.gotocoding.com/archives/1947)
 - 2024-11-29 [谈谈游戏服务器中RPC模块的设计](https://blog.gotocoding.com/archives/1943)
 - 2024-10-04 [谈谈游戏服务器代码抽象](https://blog.gotocoding.com/archives/1923)
